@@ -1,0 +1,16 @@
+.venv/
+.python/
+models-cache/
+input/
+output/
+logs/
+tmp/
+__pycache__/
+*.py[cod]
+*.log
+*.zip
+*.7z
+*.7z.*
+dist/
+release/
+.agent_harnesses.json
