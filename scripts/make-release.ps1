@@ -110,7 +110,11 @@ Portable Windows build.
 
 ## Install
 
-Extract the archive, then run:
+If the release is split into .001, .002, etc., download every part into the same folder and run:
+
+JOIN_ZIP_PARTS.bat
+
+Then extract the rebuilt archive and run:
 
 Start-RemoveAIWatermarks.bat
 
